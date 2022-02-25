@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
 from struct import unpack
 
-
 # 读取并存储 bmp 文件
 class ReadBMPFile:
     def __init__(self, filePath):
